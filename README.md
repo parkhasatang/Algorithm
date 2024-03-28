@@ -1,2 +1,3 @@
 # Algorithm
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+C# 알고리즘
+https://school.programmers.co.kr/learn/challenges?order=recent&levels=0&languages=csharp&partIds=33882
